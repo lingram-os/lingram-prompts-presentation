@@ -111,4 +111,4 @@ The actual internal prompt logic is not shown here to preserve instructional des
 ## 📄 License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
-Prompt structure, formatting logic, and educational design are © 2025 Victoria Khylchuk (Mono Application).
+Prompt structure, formatting logic, and educational design are © 2025 Victoria Khylchuk.
